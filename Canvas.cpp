@@ -5,9 +5,6 @@
 #include "Arduino.h"
 #include "Canvas.h"
 
-#define CANVAS_WIDTH 84
-#define CANVAS_HEIGHT 48
-
 Canvas::Canvas(void) {
 }
 
